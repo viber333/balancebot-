@@ -1,3 +1,3 @@
 C0 -1 +1,2 C 
 aiogram==2.25.1
-++aiohttp==3.9.
+++aiohttp==3.9.5
